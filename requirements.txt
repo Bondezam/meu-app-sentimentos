@@ -1,8 +1,10 @@
-streamlit
-spacy
 spacytextblob
-pandas
 deep_translator
 spacytextblob
 sqlite3
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+streamlit>=1.30.0
+spacy==3.7.4
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.7.0/pt_core_news_sm-3.7.0-py3-none-any.whl
+pandas>=2.0.0
+plotly>=5.18.0
