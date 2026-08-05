@@ -1,5 +1,3 @@
-
-
 spacytextblob
 pandas
 deep_translator
